@@ -1,0 +1,3 @@
+CODECHEF
+
+1) FCTRL2 - STUDY about factorial for large numbers using boost precison library
